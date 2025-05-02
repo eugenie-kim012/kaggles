@@ -1,2 +1,2 @@
 # kaggles
-uploading kaggles(trials and learnings)
+uploading kaggles(transcriptions and learnings from good practices)
